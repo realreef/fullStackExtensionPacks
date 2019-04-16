@@ -1,0 +1,30 @@
+{
+    "name": "realreef-extension-package",
+    "displayName": "realreef extension packages",
+    "description": "All essential extension for realreef.",
+    "version": "0.0.1",
+    "publisher": "realreef",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "bmewburn.vscode-intelephense-client", 
+        "dbaeumer.jshint", 
+        "felixfbecker.php-debug", 
+        "felixfbecker.php-intellisense", 
+        "felixfbecker.php-pack", 
+        "HvyIndustries.crane", 
+        "ikappas.phpcs", 
+        "junstyle.php-cs-fixer", 
+        "marabesi.php-import-checker", 
+        "ms-vscode.cpptools", 
+        "neilbrayfield.php-docblocker", 
+        "shanoor.vscode-nginx", 
+        "shinnn.stylelint", 
+        "vincentkos.php-docblock-generator", 
+        "VisualStudioExptTeam.vscodeintellicode"
+    ]
+}
