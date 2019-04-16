@@ -10,6 +10,13 @@
     "categories": [
         "Extension Packs"
     ],
+    "repository": {
+        "url": "https://github.com/realreef/realreefExtensionPack"
+    },
+    "homepage": "https://github.com/realreef/realreefExtensionPack",
+    "bugs": {
+        "url": "https://github.com/realreef/realreefExtensionPack/issues"
+    },
     "extensionPack": [ 
         "bmewburn.vscode-intelephense-client", 
         "dbaeumer.jshint", 
