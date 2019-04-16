@@ -11,11 +11,11 @@
         "Extension Packs"
     ],
     "repository": {
-        "url": "https://github.com/realreef/realreefExtensionPack"
+        "url": "https://github.com/realreef/fullStackExtensionPacks"
     },
-    "homepage": "https://github.com/realreef/realreefExtensionPack",
+    "homepage": "https://github.com/realreef/fullStackExtensionPacks",
     "bugs": {
-        "url": "https://github.com/realreef/realreefExtensionPack/issues"
+        "url": "https://github.com/realreef/fullStackExtensionPacks/issues"
     },
     "extensionPack": [ 
         "bmewburn.vscode-intelephense-client", 
