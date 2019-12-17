@@ -60,6 +60,7 @@ ext install realreef.fullstack-extension-packages
 * [nginx.conf](https://marketplace.visualstudio.com/items?itemName=shanoor.vscode-nginx)
 * [stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
 * [Visual Studio IntelliCode - Preview](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+* [Python extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
 
 **Enjoy The Packs!**

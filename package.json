@@ -2,7 +2,7 @@
     "name": "fullstack-extension-packages",
     "displayName": "Full Stack Developer Extension Packages",
     "description": "All essential extension for full stack developer.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "realreef",
     "engines": {
         "vscode": "^1.33.0"
@@ -64,6 +64,7 @@
         "hollowtree.vue-snippets",
         "sdras.vue-vscode-snippets",
         "onecentlin.laravel5-snippets",
-        "onecentlin.laravel-blade"
+        "onecentlin.laravel-blade",
+        "ms-python.python"
     ]
 }
