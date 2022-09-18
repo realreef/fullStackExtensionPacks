@@ -2,10 +2,10 @@
     "name": "fullstack-extension-packages",
     "displayName": "Full Stack Developer Extension Packages",
     "description": "All essential extension for full stack developer.",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "publisher": "realreef",
     "engines": {
-        "vscode": "^1.33.0"
+        "vscode": "^1.50.0"
     },
     "categories": [
         "Extension Packs"
